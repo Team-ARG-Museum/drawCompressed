@@ -61,6 +61,6 @@ const uint8_t PROGMEM array_name_prefix[] = {
 };
 ```
 
-#Please note !
+# Please note !
 - height of your image always needs to be a multiple of 8 (due to the fact that half bytes don't work)
 - look at the compress ratio, before using the compressed data, it might be worse in some cases
